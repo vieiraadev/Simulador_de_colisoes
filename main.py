@@ -72,11 +72,12 @@ def main():
 
     def create_balls():
         balls = []
+        colors = [(255, 0, 0), (0, 0, 255)]  # Red and Blue
         for _ in range(BALL_COUNT):
             x = random.randint(BALL_RADIUS, WIDTH - BALL_RADIUS)
             y = random.randint(BALL_RADIUS, HEIGHT - BALL_RADIUS)
             vx, vy = random_velocity()
-            color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
+            color = random.choice(colors)
             balls.append(Ball(x, y, vx, vy, color))
         return balls
 
