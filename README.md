@@ -15,4 +15,4 @@ Tecnologias Utilizadas
 Python: Linguagem de programação principal utilizada para desenvolver o simulador.<br>
 Pygame: Biblioteca utilizada para criar a interface gráfica e a visualização das colisões.
 
-![image](https://github.com/vieiraadev/Simulador_de_colisoes/assets/164572708/544be1e1-4882-4298-a508-b91eaff8f255)
+
