@@ -16,3 +16,4 @@ Python: Linguagem de programação principal utilizada para desenvolver o simula
 Pygame: Biblioteca utilizada para criar a interface gráfica e a visualização das colisões.
 
 
+![image](https://github.com/vieiraadev/Simulador_de_colisoes/assets/164572708/9b88c9c3-f322-46e8-a0de-83e239a7f911)
