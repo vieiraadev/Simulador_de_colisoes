@@ -1,4 +1,4 @@
-Simulador de Colisões em Python
+
 
 Este repositório contém o código-fonte de um simulador de colisões desenvolvido utilizando a linguagem de programação Python. O objetivo deste projeto é simular colisões entre objetos em um ambiente bidimensional, proporcionando uma ferramenta educativa e interativa para o estudo de física e dinâmica de colisões.
 
